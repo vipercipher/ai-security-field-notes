@@ -1,6 +1,6 @@
-# Day 01 — Deepfake BEC: Anatomy of the Attack
+# DAY ONE Deepfake BEC: Anatomy of the Attack
 
-📅 3 November 2026 · 🏷️ Deepfake fraud · ⏱️ ~25 min
+📅 3 November 2026 · 🏷️Deepfake fraud · ⏱️ ~25 min
 
 ---
 
