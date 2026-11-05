@@ -245,4 +245,4 @@ results for *every* check so you can measure its real hit and miss rates over ti
 > search-result summaries of these pages. Re-check the numbers against the
 > originals before relying on them.*
 
-⬅️ [Learning log index](README.md) · ➡️ Day 04: Payment controls that stop BEC: call-backs and dual approval (6 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 04: Payment controls that stop BEC: call-backs and dual approval (6 Nov)](2026-11-06-payment-controls-callbacks-dual-approval.md)
