@@ -37,7 +37,7 @@ and each entry ends with exercises answered in my own words.
 |---|---|---|---|
 | 01 | 3 Nov | Deepfake BEC: anatomy of the attack | [Read](2026-11-03-deepfake-bec-anatomy.md) |
 | 02 | 4 Nov | Voice cloning: what it takes and where it breaks | [Read](2026-11-04-voice-cloning-limits.md) |
-| 03 | 5 Nov | Why people and deepfake detectors both miss fakes | |
+| 03 | 5 Nov | Why people and deepfake detectors both miss fakes | [Read](2026-11-05-why-people-and-detectors-miss-fakes.md) |
 | 04 | 6 Nov | Payment controls that stop BEC: call-backs and dual approval | |
 | 05 | 7 Nov | Help desk social engineering and verifying a caller | |
 | 06 | 8 Nov | Phishing-resistant MFA and the recovery path | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **2 / 28**
+- Entries published: **3 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

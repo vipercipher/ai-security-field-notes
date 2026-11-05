@@ -251,4 +251,4 @@ Also consider a lower-severity rule on any new-payee approval, regardless of cal
 > opened directly, so the figures above come from search-result summaries of these
 > pages. Re-check the numbers against the originals before relying on them.*
 
-⬅️ [Learning log index](README.md) · ➡️ Day 03: Why people and deepfake detectors both miss fakes (5 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 03: Why people and deepfake detectors both miss fakes (5 Nov)](2026-11-05-why-people-and-detectors-miss-fakes.md)
