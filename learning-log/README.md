@@ -36,7 +36,7 @@ and each entry ends with exercises answered in my own words.
 | Day | Date | Topic | Entry |
 |---|---|---|---|
 | 01 | 3 Nov | Deepfake BEC: anatomy of the attack | [Read](2026-11-03-deepfake-bec-anatomy.md) |
-| 02 | 4 Nov | Voice cloning: what it takes and where it breaks | |
+| 02 | 4 Nov | Voice cloning: what it takes and where it breaks | [Read](2026-11-04-voice-cloning-limits.md) |
 | 03 | 5 Nov | Why people and deepfake detectors both miss fakes | |
 | 04 | 6 Nov | Payment controls that stop BEC: call-backs and dual approval | |
 | 05 | 7 Nov | Help desk social engineering and verifying a caller | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **1 / 28**
+- Entries published: **2 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

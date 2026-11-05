@@ -246,4 +246,4 @@ than proof while the money is still in your account.
 - Microsoft Learn: [EmailEvents table](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-emailevents-table) · [join operator (KQL)](https://learn.microsoft.com/en-us/kusto/query/join-operator)
 - MITRE ATT&CK: [T1566.004 Spearphishing Voice](https://attack.mitre.org/techniques/T1566/004/) · [T1656 Impersonation](https://attack.mitre.org/techniques/T1656/) · [T1657 Financial Theft](https://attack.mitre.org/techniques/T1657/)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 02: Voice cloning: what it takes and where it breaks (4 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 02: Voice cloning: what it takes and where it breaks (4 Nov)](2026-11-04-voice-cloning-limits.md)
