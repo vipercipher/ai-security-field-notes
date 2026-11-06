@@ -278,4 +278,4 @@ deserves an occasional human look.
 - MITRE ATT&CK: [T1657 Financial Theft](https://attack.mitre.org/techniques/T1657/)
 - This log: [ANALYSIS.md](../ANALYSIS.md) (the controls table in section 1) · [Day 03](2026-11-05-why-people-and-detectors-miss-fakes.md) (skipped call-backs after a "Likely real" verdict)
 
-⬅️ [Learning log index](README.md) · ➡️ [Day 05: Help desk social engineering and verifying a caller](2026-11-07-help-desk-social-engineering.md) (7 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 05: Help desk social engineering and verifying a caller (7 Nov)](2026-11-07-help-desk-social-engineering.md)
