@@ -40,7 +40,7 @@ and each entry ends with exercises answered in my own words.
 | 03 | 5 Nov | Why people and deepfake detectors both miss fakes | [Read](2026-11-05-why-people-and-detectors-miss-fakes.md) |
 | 04 | 6 Nov | Payment controls that stop BEC: call-backs and dual approval | [Read](2026-11-06-payment-controls-callbacks-dual-approval.md) |
 | 05 | 7 Nov | Help desk social engineering and verifying a caller | [Read](2026-11-07-help-desk-social-engineering.md) |
-| 06 | 8 Nov | Phishing-resistant MFA and the recovery path | |
+| 06 | 8 Nov | Phishing-resistant MFA and the recovery path | [Read](2026-11-08-phishing-resistant-mfa-recovery-path.md) |
 | 07 | 9 Nov | After the reset: detecting MFA changes and inbox rules | |
 | 08 | 10 Nov | Vishing over Teams: external tenants and remote access tools | |
 | 09 | 11 Nov | Deepfake job candidates and remote worker fraud | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **5 / 28**
+- Entries published: **6 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

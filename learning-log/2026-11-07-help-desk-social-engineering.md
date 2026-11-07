@@ -249,4 +249,4 @@ method field is typed by the agent.
 - Microsoft Learn: [Microsoft Entra audit log activity reference](https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-audit-activities)
 - This log: [ANALYSIS.md](../ANALYSIS.md) (the help desk section) · [Day 02](2026-11-04-voice-cloning-limits.md) (why a convincing voice proves nothing) · [Day 04](2026-11-06-payment-controls-callbacks-dual-approval.md) (a completed field is a claim, not evidence)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 06: Phishing-resistant MFA and the recovery path (8 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 06: Phishing-resistant MFA and the recovery path (8 Nov)](2026-11-08-phishing-resistant-mfa-recovery-path.md)
