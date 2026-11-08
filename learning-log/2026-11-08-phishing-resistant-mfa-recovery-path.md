@@ -264,4 +264,4 @@ not a complete detection.
 - NIST: [SP 800-63B-4, Authenticator event management (account recovery and notification)](https://pages.nist.gov/800-63-4/sp800-63b/events/)
 - This log: [ANALYSIS.md](../ANALYSIS.md) (identity controls) · [Day 05](2026-11-07-help-desk-social-engineering.md) (verifying the caller before issuing a TAP)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 07: After the reset: detecting MFA changes and inbox rules (9 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 07: After the reset: detecting MFA changes and inbox rules (9 Nov)](2026-11-09-mfa-changes-and-inbox-rules.md)
