@@ -42,7 +42,7 @@ and each entry ends with exercises answered in my own words.
 | 05 | 7 Nov | Help desk social engineering and verifying a caller | [Read](2026-11-07-help-desk-social-engineering.md) |
 | 06 | 8 Nov | Phishing-resistant MFA and the recovery path | [Read](2026-11-08-phishing-resistant-mfa-recovery-path.md) |
 | 07 | 9 Nov | After the reset: detecting MFA changes and inbox rules | [Read](2026-11-09-mfa-changes-and-inbox-rules.md) |
-| 08 | 10 Nov | Vishing over Teams: external tenants and remote access tools | |
+| 08 | 10 Nov | Vishing over Teams: external tenants and remote access tools | [Read](2026-11-10-teams-vishing-external-tenants-remote-access.md) |
 | 09 | 11 Nov | Deepfake job candidates and remote worker fraud | |
 
 ### Part 2: LLM security
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **7 / 28**
+- Entries published: **8 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

@@ -294,4 +294,4 @@ anything, so the attacker can't re-enrol while you work.
 - Vendor research: [Expel, seven ways to spot BEC in Microsoft 365](https://expel.com/blog/seven-ways-to-spot-business-email-compromise-microsoft-365/)
 - This log: [Day 05](2026-11-07-help-desk-social-engineering.md) (the reset) · [Day 06](2026-11-08-phishing-resistant-mfa-recovery-path.md) (the recovery path and `f.cole`'s TAP)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 08: Vishing over Teams: external tenants and remote access tools (10 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 08: Vishing over Teams: external tenants and remote access tools (10 Nov)](2026-11-10-teams-vishing-external-tenants-remote-access.md)
