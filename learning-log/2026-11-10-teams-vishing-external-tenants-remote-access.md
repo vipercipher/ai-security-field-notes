@@ -274,4 +274,4 @@ again.
 - MITRE ATT&CK: [T1566.003 Spearphishing via Service](https://attack.mitre.org/techniques/T1566/003/) · [T1566.004 Spearphishing Voice](https://attack.mitre.org/techniques/T1566/004/) · [T1219 Remote Access Tools](https://attack.mitre.org/techniques/T1219/)
 - This log: [Day 05](2026-11-07-help-desk-social-engineering.md) (verifying a caller) · [Day 06](2026-11-08-phishing-resistant-mfa-recovery-path.md) (phishing-resistant MFA) · [Day 07](2026-11-09-mfa-changes-and-inbox-rules.md) (what to check after)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 09: Deepfake job candidates and remote worker fraud (11 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 09: Deepfake job candidates and remote worker fraud (11 Nov)](2026-11-11-deepfake-job-candidates-remote-worker-fraud.md)
