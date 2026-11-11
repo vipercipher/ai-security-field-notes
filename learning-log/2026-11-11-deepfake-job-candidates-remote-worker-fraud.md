@@ -313,4 +313,4 @@ authentication methods (Day 07).
 - MITRE ATT&CK: [T1219.002 Remote Desktop Software](https://attack.mitre.org/techniques/T1219/002/) · [T1219.003 Remote Access Hardware](https://attack.mitre.org/techniques/T1219/003/)
 - This log: [Day 01](2026-11-03-deepfake-bec-anatomy.md) (the fake as objection handler) · [Day 03](2026-11-05-why-people-and-detectors-miss-fakes.md) (why spotting fakes fails) · [Day 08](2026-11-10-teams-vishing-external-tenants-remote-access.md) (remote access tools)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 10: How LLM apps fail: the OWASP LLM Top 10 (12 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 10: How LLM apps fail: the OWASP LLM Top 10 (12 Nov)](2026-11-12-owasp-llm-top-10.md)
