@@ -50,7 +50,7 @@ and each entry ends with exercises answered in my own words.
 | Day | Date | Topic | Entry |
 |---|---|---|---|
 | 10 | 12 Nov | How LLM apps fail: the OWASP LLM Top 10 | [Read](2026-11-12-owasp-llm-top-10.md) |
-| 11 | 13 Nov | Direct prompt injection vs jailbreaking | |
+| 11 | 13 Nov | Direct prompt injection vs jailbreaking | [Read](2026-11-13-direct-prompt-injection-vs-jailbreaking.md) |
 | 12 | 14 Nov | Indirect prompt injection: an EchoLeak walkthrough | |
 | 13 | 15 Nov | Threat modelling agents: lethal trifecta and Rule of Two | |
 | 14 | 16 Nov | Input handling: what sanitisation can and can't do | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **10 / 28**
+- Entries published: **11 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

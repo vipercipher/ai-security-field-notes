@@ -322,4 +322,4 @@ argument for keeping allowed actions narrow in the first place.
 - Microsoft Learn: [Add or delete tables and columns in Azure Monitor Logs](https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table)
 - This log: [ANALYSIS.md, section 2](../ANALYSIS.md#2-llm-vulnerabilities-and-prompt-injection) (the layered architecture) · [Day 07](2026-11-09-mfa-changes-and-inbox-rules.md) (two events in one window) · [Day 09](2026-11-11-deepfake-job-candidates-remote-worker-fraud.md) (the same "two or more" pattern)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 11: Direct prompt injection vs jailbreaking (13 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 11: Direct prompt injection vs jailbreaking (13 Nov)](2026-11-13-direct-prompt-injection-vs-jailbreaking.md)
