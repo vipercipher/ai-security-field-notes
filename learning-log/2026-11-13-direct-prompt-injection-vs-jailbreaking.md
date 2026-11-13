@@ -337,4 +337,4 @@ the user is *allowed* to do leaves no control hit at all.
 - NCSC: [Prompt injection is not SQL injection (it may be worse)](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)
 - This log: [ANALYSIS.md, section 2](../ANALYSIS.md#the-framing-that-matters) (the three-term table) · [Day 10](2026-11-12-owasp-llm-top-10.md) (the same audit table and controls) · [Day 07](2026-11-09-mfa-changes-and-inbox-rules.md) (checking whether the account is really the user)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 12: Indirect prompt injection: an EchoLeak walkthrough (14 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 12: Indirect prompt injection: an EchoLeak walkthrough (14 Nov)](2026-11-14-indirect-prompt-injection-echoleak.md)
