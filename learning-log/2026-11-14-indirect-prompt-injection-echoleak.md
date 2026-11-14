@@ -402,4 +402,4 @@ arbitrary external URLs for the chat window.
 - NCSC: [Prompt injection is not SQL injection (it may be worse)](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)
 - This log: [ANALYSIS.md, section 2](../ANALYSIS.md#what-the-real-world-shows) (EchoLeak in context) · [Day 10](2026-11-12-owasp-llm-top-10.md) (the first indirect injection in Ask Northwind, ticket T-4471) · [Day 11](2026-11-13-direct-prompt-injection-vs-jailbreaking.md) (the direct version, and why the classifier is telemetry)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 13: Threat modelling agents: lethal trifecta and Rule of Two (15 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 13: Threat modelling agents: lethal trifecta and Rule of Two (15 Nov)](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md)

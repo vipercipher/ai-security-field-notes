@@ -52,7 +52,7 @@ and each entry ends with exercises answered in my own words.
 | 10 | 12 Nov | How LLM apps fail: the OWASP LLM Top 10 | [Read](2026-11-12-owasp-llm-top-10.md) |
 | 11 | 13 Nov | Direct prompt injection vs jailbreaking | [Read](2026-11-13-direct-prompt-injection-vs-jailbreaking.md) |
 | 12 | 14 Nov | Indirect prompt injection: an EchoLeak walkthrough | [Read](2026-11-14-indirect-prompt-injection-echoleak.md) |
-| 13 | 15 Nov | Threat modelling agents: lethal trifecta and Rule of Two | |
+| 13 | 15 Nov | Threat modelling agents: lethal trifecta and Rule of Two | [Read](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) |
 | 14 | 16 Nov | Input handling: what sanitisation can and can't do | |
 | 15 | 17 Nov | Runtime guardrails and how adaptive attacks beat them | |
 | 16 | 18 Nov | Output validation and data exfiltration channels | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **12 / 28**
+- Entries published: **13 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).
