@@ -390,4 +390,4 @@ which says nothing about whether the person read what they approved. Day 17
 - OWASP GenAI Security Project: [OWASP Top 10 for Agentic Applications](https://genai.owasp.org/2025/12/09/owasp-top-10-for-agentic-applications-the-benchmark-for-agentic-security-in-the-age-of-autonomous-ai/) (ASI01 Agent Goal Hijack and ASI02 Tool Misuse are the risks today's rule watches for)
 - This log: [ANALYSIS.md, section 2](../ANALYSIS.md#start-with-blast-radius) (blast radius first) · [Day 10](2026-11-12-owasp-llm-top-10.md) (Ask Northwind's tools and the first external ticket) · [Day 12](2026-11-14-indirect-prompt-injection-echoleak.md) (why a classifier won't save you, and image rendering as an exit) · [Day 4](2026-11-06-payment-controls-callbacks-dual-approval.md) (the call-back that gates the AP agent)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 14: Input handling: what sanitisation can and can't do (16 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 14: Input handling: what sanitisation can and can't do (16 Nov)](2026-11-16-input-handling-sanitisation-limits.md)
