@@ -54,7 +54,7 @@ and each entry ends with exercises answered in my own words.
 | 12 | 14 Nov | Indirect prompt injection: an EchoLeak walkthrough | [Read](2026-11-14-indirect-prompt-injection-echoleak.md) |
 | 13 | 15 Nov | Threat modelling agents: lethal trifecta and Rule of Two | [Read](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) |
 | 14 | 16 Nov | Input handling: what sanitisation can and can't do | [Read](2026-11-16-input-handling-sanitisation-limits.md) |
-| 15 | 17 Nov | Runtime guardrails and how adaptive attacks beat them | |
+| 15 | 17 Nov | Runtime guardrails and how adaptive attacks beat them | [Read](2026-11-17-runtime-guardrails-adaptive-attacks.md) |
 | 16 | 18 Nov | Output validation and data exfiltration channels | |
 | 17 | 19 Nov | Agent tools and MCP: permissions and tool poisoning | |
 | 18 | 20 Nov | Data poisoning: training data, RAG and agent memory | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **14 / 28**
+- Entries published: **15 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

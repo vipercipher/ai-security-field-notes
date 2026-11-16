@@ -385,4 +385,4 @@ alert if it stops finding them.
 - Nasr et al.: [The Attacker Moves Second](https://arxiv.org/html/2510.09023v1) (adaptive attacks against 12 defences)
 - This log: [ANALYSIS.md, Layer 4](../ANALYSIS.md#a-pragmatic-architecture) (input hygiene, useful but not a boundary) · [Day 10](2026-11-12-owasp-llm-top-10.md) (T-4471 and the HTML comment) · [Day 12](2026-11-14-indirect-prompt-injection-echoleak.md) (an injection in plain business text) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (the taint rule that T-4540 depends on)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 15: Runtime guardrails and how adaptive attacks beat them (17 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 15: Runtime guardrails and how adaptive attacks beat them (17 Nov)](2026-11-17-runtime-guardrails-adaptive-attacks.md)
