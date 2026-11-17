@@ -399,4 +399,4 @@ which is why those checks matter more than the guardrail.
 - NCSC: [Prompt injection is not SQL injection (it may be worse)](https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection)
 - This log: [ANALYSIS.md, Layer 5](../ANALYSIS.md#a-pragmatic-architecture) (probabilistic guardrails, telemetry first) · [Day 11](2026-11-13-direct-prompt-injection-vs-jailbreaking.md) (block versus annotate, the false positive on "ignore the earlier ticket") · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (Rule of Two) · [Day 14](2026-11-16-input-handling-sanitisation-limits.md) (sanitising before the classifier)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 16: Output validation and data exfiltration channels (18 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 16: Output validation and data exfiltration channels (18 Nov)](2026-11-18-output-validation-exfiltration-channels.md)
