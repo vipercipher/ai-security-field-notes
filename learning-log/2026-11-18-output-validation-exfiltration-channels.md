@@ -391,4 +391,4 @@ applied to one tool's arguments.
 - Legit Security (vendor research): [CamoLeak: Critical GitHub Copilot Vulnerability Leaks Private Source Code](https://www.legitsecurity.com/blog/camoleak-critical-github-copilot-vulnerability-leaks-private-source-code)
 - This log: [ANALYSIS.md, Layer 3](../ANALYSIS.md#a-pragmatic-architecture) (output handling) · [Day 12](2026-11-14-indirect-prompt-injection-echoleak.md) (EchoLeak and the preview service) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (Rule of Two, the agent gateway) · [Day 15](2026-11-17-runtime-guardrails-adaptive-attacks.md) (Order Help's output check, and why retries help attackers)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 17: Agent tools and MCP: permissions and tool poisoning (19 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 17: Agent tools and MCP: permissions and tool poisoning (19 Nov)](2026-11-19-agent-tools-mcp-permissions-tool-poisoning.md)
