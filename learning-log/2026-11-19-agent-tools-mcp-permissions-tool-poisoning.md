@@ -455,4 +455,4 @@ now", not "proven compromise".
 - Invariant Labs (vendor research): [MCP Security Notification: Tool Poisoning Attacks](https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks) (poisoning, shadowing and rug pulls)
 - This log: [ANALYSIS.md, data poisoning and supply chain](../ANALYSIS.md#data-poisoning-keep-the-threat-model-honest) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (legs, the agent register, S-508) · [Day 16](2026-11-18-output-validation-exfiltration-channels.md) (tool arguments as an exit, approval screens)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 18: Data poisoning: training data, RAG and agent memory (20 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 18: Data poisoning: training data, RAG and agent memory (20 Nov)](2026-11-20-data-poisoning-training-rag-memory.md)
