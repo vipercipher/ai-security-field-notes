@@ -400,4 +400,4 @@ make sure Day 4's call-back happened.
 - Microsoft Defender Security Research (vendor research): [Manipulating AI memory for profit: The rise of AI Recommendation Poisoning](https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/) (includes Advanced Hunting queries for AI-assistant links in email and Teams)
 - This log: [ANALYSIS.md, data poisoning](../ANALYSIS.md#data-poisoning-keep-the-threat-model-honest) · [Day 4](2026-11-06-payment-controls-callbacks-dual-approval.md) (call-backs from the vendor master) · [Day 12](2026-11-14-indirect-prompt-injection-echoleak.md) (indexed email as an injection path) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (legs, the taint rule, the A$200 cap) · [Day 17](2026-11-19-agent-tools-mcp-permissions-tool-poisoning.md) (poisoned tool definitions)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 19: Logging LLM apps so you can detect abuse (21 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 19: Logging LLM apps so you can detect abuse (21 Nov)](2026-11-21-logging-llm-apps-detect-abuse.md)

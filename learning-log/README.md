@@ -58,7 +58,7 @@ and each entry ends with exercises answered in my own words.
 | 16 | 18 Nov | Output validation and data exfiltration channels | [Read](2026-11-18-output-validation-exfiltration-channels.md) |
 | 17 | 19 Nov | Agent tools and MCP: permissions and tool poisoning | [Read](2026-11-19-agent-tools-mcp-permissions-tool-poisoning.md) |
 | 18 | 20 Nov | Data poisoning: training data, RAG and agent memory | [Read](2026-11-20-data-poisoning-training-rag-memory.md) |
-| 19 | 21 Nov | Logging LLM apps so you can detect abuse | |
+| 19 | 21 Nov | Logging LLM apps so you can detect abuse | [Read](2026-11-21-logging-llm-apps-detect-abuse.md) |
 
 ### Part 3: AI in the SOC
 
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **18 / 28**
+- Entries published: **19 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).
