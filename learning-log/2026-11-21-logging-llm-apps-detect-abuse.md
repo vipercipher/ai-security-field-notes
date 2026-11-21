@@ -421,4 +421,4 @@ attacker unlogged for most of a day.
 - SigmaHQ: [AWS Bedrock Guardrail Deleted](https://github.com/SigmaHQ/sigma/blob/master/rules/cloud/aws/cloudtrail/aws_cloudtrail_bedrock_guardrail_deleted.yml) (an existing community rule in the same style)
 - This log: [ANALYSIS.md, layer 6: monitoring](../ANALYSIS.md#a-pragmatic-architecture) · [Day 10](2026-11-12-owasp-llm-top-10.md) (the first audit table, S-205's token count) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (the gateway, `Approval = human`) · [Day 15](2026-11-17-runtime-guardrails-adaptive-attacks.md) (scores creeping down) · [Day 18](2026-11-20-data-poisoning-training-rag-memory.md) (reads after a poisoned write)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 20: ML threat hunting: anomalies, UEBA and baselines (22 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 20: ML threat hunting: anomalies, UEBA and baselines (22 Nov)](2026-11-22-ml-threat-hunting-ueba-baselines.md)

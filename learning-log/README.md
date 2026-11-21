@@ -64,7 +64,7 @@ and each entry ends with exercises answered in my own words.
 
 | Day | Date | Topic | Entry |
 |---|---|---|---|
-| 20 | 22 Nov | ML threat hunting: anomalies, UEBA and baselines | |
+| 20 | 22 Nov | ML threat hunting: anomalies, UEBA and baselines | [Read](2026-11-22-ml-threat-hunting-ueba-baselines.md) |
 | 21 | 23 Nov | AI-powered IDS: base rates, precision and drift | |
 | 22 | 24 Nov | Incident response copilots: measuring real value | |
 | 23 | 25 Nov | Hallucination in playbooks: verifying AI output | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **19 / 28**
+- Entries published: **20 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).
