@@ -406,4 +406,4 @@ ATLAS: [AML.T0015 Evade AI Model](https://atlas.mitre.org/techniques/AML.T0015).
 - MITRE ATLAS: [AML.T0015 Evade AI Model](https://atlas.mitre.org/techniques/AML.T0015) · MITRE ATT&CK: [T1685 Disable or Modify Tools](https://attack.mitre.org/techniques/T1685/)
 - This log: [ANALYSIS.md, ML detection and the arithmetic of alert fatigue](../ANALYSIS.md#ml-detection-and-the-arithmetic-of-alert-fatigue) · [Day 18](2026-11-20-data-poisoning-training-rag-memory.md) (poisoning) · [Day 20](2026-11-22-ml-threat-hunting-ueba-baselines.md) (baselines, Sommer and Paxson) · October: [Day 17, alert triage](https://github.com/vipercipher/soc-lab-beginner/blob/main/learning-log/2026-10-27-alert-triage.md)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 22: Incident response copilots: measuring real value (24 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 22: Incident response copilots: measuring real value (24 Nov)](2026-11-24-ir-copilots-measuring-real-value.md)

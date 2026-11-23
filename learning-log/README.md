@@ -66,7 +66,7 @@ and each entry ends with exercises answered in my own words.
 |---|---|---|---|
 | 20 | 22 Nov | ML threat hunting: anomalies, UEBA and baselines | [Read](2026-11-22-ml-threat-hunting-ueba-baselines.md) |
 | 21 | 23 Nov | AI-powered IDS: base rates, precision and drift | [Read](2026-11-23-ai-ids-base-rates-precision-drift.md) |
-| 22 | 24 Nov | Incident response copilots: measuring real value | |
+| 22 | 24 Nov | Incident response copilots: measuring real value | [Read](2026-11-24-ir-copilots-measuring-real-value.md) |
 | 23 | 25 Nov | Hallucination in playbooks: verifying AI output | |
 | 24 | 26 Nov | Prompt injection through logs: attacking the SOC's AI | |
 | 25 | 27 Nov | Autonomous containment: reversibility and blast radius | |
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **21 / 28**
+- Entries published: **22 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).
