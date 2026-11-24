@@ -359,4 +359,4 @@ through the logs it summarises.
 - Microsoft Learn: [Security Copilot for Microsoft 365 E5 and E7 customers](https://learn.microsoft.com/en-us/copilot/security/security-copilot-inclusion) · [Access the Security Copilot audit log](https://learn.microsoft.com/en-us/copilot/security/audit-log) · [percentile(), percentiles()](https://learn.microsoft.com/en-us/kusto/query/percentiles-aggregation-function?view=microsoft-fabric)
 - This log: [ANALYSIS.md, What the evidence supports](../ANALYSIS.md#what-the-evidence-supports) · [Day 19](2026-11-21-logging-llm-apps-detect-abuse.md) (logging LLM apps) · [Day 21](2026-11-23-ai-ids-base-rates-precision-drift.md) (precision, labels and the weekly health check) · October: [Day 17, alert triage](https://github.com/vipercipher/soc-lab-beginner/blob/main/learning-log/2026-10-27-alert-triage.md)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 23: Hallucination in playbooks: verifying AI output (25 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 23: Hallucination in playbooks: verifying AI output (25 Nov)](2026-11-25-hallucination-playbooks-verifying-ai-output.md)
