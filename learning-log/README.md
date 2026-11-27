@@ -70,7 +70,7 @@ and each entry ends with exercises answered in my own words.
 | 23 | 25 Nov | Hallucination in playbooks: verifying AI output | [Read](2026-11-25-hallucination-playbooks-verifying-ai-output.md) |
 | 24 | 26 Nov | Prompt injection through logs: attacking the SOC's AI | [Read](2026-11-26-prompt-injection-through-logs.md) |
 | 25 | 27 Nov | Autonomous containment: reversibility and blast radius | [Read](2026-11-27-autonomous-containment-reversibility-blast-radius.md) |
-| 26 | 28 Nov | Guardrails for SOC agents: identity, rollback and kill switches | |
+| 26 | 28 Nov | Guardrails for SOC agents: identity, rollback and kill switches | [Read](2026-11-28-soc-agent-guardrails-identity-rollback-kill-switches.md) |
 
 ### Wrap-up
 
@@ -83,7 +83,7 @@ and each entry ends with exercises answered in my own words.
 
 ## Progress
 
-- Entries published: **25 / 28**
+- Entries published: **26 / 28**
 - Exercises answered: tracked in each entry's **My answers** section
 
 ➡️ Back to the [main page](../README.md) · 📄 Read the [full analysis](../ANALYSIS.md).

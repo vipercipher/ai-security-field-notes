@@ -420,4 +420,4 @@ for what a forced wrong action looks like from the attacker's side.
 - MITRE ATT&CK: [T1531 Account Access Removal](https://attack.mitre.org/techniques/T1531/)
 - This log: [ANALYSIS.md, The line on autonomous containment](../ANALYSIS.md#the-line-on-autonomous-containment) · [Day 13](2026-11-15-threat-modelling-agents-trifecta-rule-of-two.md) (Rule of Two) · [Day 21](2026-11-23-ai-ids-base-rates-precision-drift.md) (base rates and precision) · [Day 24](2026-11-26-prompt-injection-through-logs.md) (attacking the SOC's AI)
 
-⬅️ [Learning log index](README.md) · ➡️ Day 26: Guardrails for SOC agents: identity, rollback and kill switches (28 Nov)
+⬅️ [Learning log index](README.md) · ➡️ [Day 26: Guardrails for SOC agents: identity, rollback and kill switches (28 Nov)](2026-11-28-soc-agent-guardrails-identity-rollback-kill-switches.md)
